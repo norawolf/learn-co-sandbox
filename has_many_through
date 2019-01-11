@@ -13,7 +13,3 @@ class Customer
     end
     
 end
-
-class Waiter
-  attr_accessor
-  
